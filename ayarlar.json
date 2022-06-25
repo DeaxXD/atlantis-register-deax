@@ -1,0 +1,40 @@
+{
+    "prefix" : "BOTUN_ÖNEKİ",
+    "token": "BOTUN_TOKENİ",
+    "sahip" : "SİZİN_İDNİZ",
+    "sunucuisim": "SUNUCU_İSMİ",
+    "botdurum": "BOT_OYNUYOR_KISMI",
+    
+    "botVoiceChannelID" : " BOTUN_GİRECEĞİ_SES_İD",
+    
+    "Guild" : "SUNUCU_İDNİZ",
+     
+    
+    "tag" : "TAGINIZ",
+    "nick" : "İsim | Yaş" ,
+    
+    
+    "booster" : "BOOSTER_ID",
+     
+    "erkek1": "ERKEKROL_1",
+    "erkek2" : "ERKEKROL_2",
+    "kadın1" : "KADINROL_1",
+    "kadın2" : "KADINROL_2",
+    "unregister" : "KAYITSIZ_ID",
+    "jailRol" : "CEZALI_İD",
+    "şüpheli" : "ŞÜPHELİ_İD",
+    "tagRol" : "FAMİLYROL_İD",
+    
+    "KayıtYetkilisi" : "KAYITYETKİLİSİ_İD",
+    "üstYetkiliRolü" : "EN_YÜKSEKROL_İD",
+  
+    
+    
+    "genelChat" : "GENELCHAT_İD",  
+    "kayitLog" : "KAYITLOG_İD",
+    "KayıtChat" : "KAYITCHAT_İD",
+    "tagLog" : "TAGLOG_İD"
+   
+    
+    
+  }

@@ -1,0 +1,21 @@
+{
+  "name": "deax-register",
+  "version": "1.0.0",
+  "description": "",
+  "main": "deax.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "croxydb": "^0.0.7",
+    "discord.js": "^12.5.3",
+    "express": "^4.18.1",
+    "jimp": "^0.16.1",
+    "moment": "^2.29.3",
+    "snekfetch": "^4.0.4"
+  }
+}
